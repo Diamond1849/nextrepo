@@ -42,25 +42,17 @@ export default function Home() {
       <HeaderChambs />
       <div className="mt-20">
         <section id="inicio" className="scroll-mt-20">
-          <HomeSection />
+          
         </section>
         
         <section id="marcas" className="scroll-mt-20">
           <CarouselChambs />
-          <BrandsSection />
+          
         </section>
         
-        <section id="servicios" className="scroll-mt-20">
-          <ServiceSection />
-        </section>
         
-        <section id="nosotros" className="scroll-mt-20">
-          <AboutSection />
-        </section>
         
-        <section id="contacto" className="scroll-mt-20">
-          <ContactSection />
-        </section>
+        
       </div>
       <FooterChambs />
     </main>

@@ -62,7 +62,7 @@ const FooterChambs = () => {
               </li>
               <li className="flex items-center space-x-3">
                 <Phone className="h-5 w-5 text-red-500" />
-                <span className="text-gray-300">+123 456 789</span>
+                <span className="text-gray-300">+593 987 654 321</span>
               </li>
               <li className="flex items-center space-x-3">
                 <Mail className="h-5 w-5 text-red-500" />
@@ -75,9 +75,7 @@ const FooterChambs = () => {
         <div className="pt-8 mt-8 border-t border-gray-800 text-center text-gray-400">
           <p>&copy; {currentYear} Importadora Chambs. Todos los derechos reservados.</p>
           <div className="mt-2 text-sm flex justify-center space-x-4">
-            <a href="#" className="hover:text-red-500 transition-colors duration-200">Términos y Condiciones</a>
-            <a href="#" className="hover:text-red-500 transition-colors duration-200">Política de Privacidad</a>
-          </div>
+           </div>
         </div>
       </div>
     </footer>

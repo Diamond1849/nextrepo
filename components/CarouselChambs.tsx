@@ -6,9 +6,9 @@ import { cn } from "@/lib/utils";
 
 const brands = [
   {
-    name: "Toyota",
-    image: "https://images.pexels.com/photos/19422039/pexels-photo-19422039/free-photo-of-a-white-toyota-car-parked-in-front-of-a-building.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    logo: "https://images.pexels.com/photos/3349576/pexels-photo-3349576.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    name: "Valvoline",
+    image: "https://www.automaster.com.ni/wp-content/uploads/2022/09/valvolinefamilia.webp",
+    logo: "https://www.akr-performance.es/assets/www.akr-performance.live/img/brands/valvoline.png",
   },
   {
     name: "Honda",
